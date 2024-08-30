@@ -51,7 +51,7 @@ const Project = () => {
       <div className="flex flex-wrap items-center lg:justify-center xl:justify-between gap-y-5">
         <Card gambar={proyek1} skills={s_proyek1} judul="Task Manager App" paragraf="Menyimpan data local dan mengimplementasikannya menjadi simple CRUD" />
         <Card link="https://github.com/bintang-bintang/TeknoHub" gambar={proyek2} skills={s_proyek2} judul="Toko Elektronik Landing Page" paragraf="Slicing desain landing page dari figma ke ReactJS dengan Tailwind css" />
-        <Card link="https://github.com/bintang-bintang/WebPortoPertama" gambar={proyek3} skills={s_proyek3} judul="Website Portofolio" paragraf="Pengembangan website portofolio dengan menggunakan ReactJS, Tailwind, Framer Motion" />
+        <Card link="https://github.com/bintang-bintang/WebPortoPertama" gambar={proyek3} skills={s_proyek3} judul="Website Portofolio" paragraf="Pengembangan website portofolio dengan menggunakan ReactJS, Tailwind, Framer Motion da adsadasds das" />
       </div>
     </div>
   )
